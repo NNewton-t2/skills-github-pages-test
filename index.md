@@ -1,6 +1,4 @@
----
-title: Welcome to the AveMaria App
----
+
 # AveMaria
 
 <div align="center">
