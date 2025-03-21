@@ -16,12 +16,4 @@
 - [Resources](#)
 - [Contact](#)
 
----
 
-<style>
-  body {
-    background-color: #f5f5dc;
-    font-family: Arial, sans-serif;
-    text-align: center;
-  }
-</style>
